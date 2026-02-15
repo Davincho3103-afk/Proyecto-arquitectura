@@ -1,3 +1,3 @@
-# Guía 1 – Definición del Proyecto
-
-[📄 Ver documento en PDF](Guia1Arquitectura.pdf)
+<iframe src="Guia1Arquitectura.pdf" width="100%" height="800px">
+Este navegador no soporta PDFs incrustados.
+</iframe>
